@@ -1,0 +1,6 @@
+{
+  "BlockLadderService": {
+    "proxys": "/api/v1/proxys"
+  },
+
+}
